@@ -1,13 +1,13 @@
 {
     "technologies": {
         "apis": [
-            "android sdk"
+            "Android SDK"
         ],
         "platforms": [
             "Android"
         ],
         "toolkits": [
-            "android adt"
+            "Android ADT"
         ]
     }
 }
