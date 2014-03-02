@@ -1,4 +1,4 @@
-Hello, my name is Ilya Shadrin. I grduated 4 years (WOW!!!) ago from Tomsk State Univercity, Faculty of Informatics. So, i spent a lot of time thinking about the information and the ways internet and devices deals with it.
+Hello, my name is Ilya Shadrin. I graduated 4 years (WOW!!!) ago from Tomsk State Univercity, Faculty of Informatics. So, i spent a lot of time thinking about the information and the ways internet and devices deals with it.
 
 The project which i developing now is one of my results.
 
