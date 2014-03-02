@@ -1,5 +1,5 @@
-Insert a description to describe your update to document your creative process. The Commissioned Interactive Artists will be doing the same so you can reference their Project Posts.
+Hello, my name is Ilya Shadrin. I grduated 4 years (WOW!!!) ago from Tomsk State Univercity, Faculty of Informatics. So, i spent a lot of time thinking about the information and the ways internet and devices deals with it.
 
-![Example Image](../project_images/cover.jpg?raw=true "Example Image")
+The project which i developing now is one of my results.
 
-https://www.youtube.com/watch?v=30yGOxJJ2PQ
+The main idea - is to turn your smartphone into your life recorder. Every sound around will be remembered, nothing will be missed. Imagine that your memory is perfect - you will have all this in your pocket soon!
