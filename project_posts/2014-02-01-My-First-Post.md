@@ -2,6 +2,6 @@ I'm tired as the devil. Decided to stop writing code today - the head is bad thi
 
 I don't really know is it connected with my app, but a lot of months were passed and they don't release their Android app yet.
 
-Currently i finishing the UI part of "final" preview - which will be recording as much, as external drive and user will allow.
+Currently i finishing the UI part of real preview - which will be recording as much, as external drive and user will allow.
 
 I planning to make a release tommorow - the dream will come true, rapid development will start.
