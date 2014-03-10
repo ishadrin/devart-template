@@ -4,4 +4,4 @@ I don't really know is it connected with my app, but a lot of months were passed
 
 Currently i finishing the UI part of real preview - which will be recording as much, as external drive and user will allow.
 
-I planning to make a release tommorow - the dream will come true, rapid development will start.
+I planning to make a release in a few days - the dream will come true, rapid development will start.
